@@ -10,7 +10,15 @@ I'm a Django Developer who is comfortable to work with Python, Django to build A
 ✅ MY SQL / SQLite3 <br>
 ## Connect with me!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' style='margin-right: 30px'>](https://github.com/Sadiqul-Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/swe.sadiqul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/sadiqul.official390/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@tpisadiqul)  
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@tpisadiqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tpisadiqul" height="30" width="40" /></a>
+<a href="https://fb.com/swe.sadiqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swe.sadiqul" height="30" width="40" /></a>
+<a href="https://instagram.com/sadiqul.official390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadiqul.official390" height="30" width="40" /></a>
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiqul-Islam)](https://github.com/anuraghazra/github-readme-stats)
 
