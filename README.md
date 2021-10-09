@@ -4,10 +4,10 @@
 
 I'm a Django Developer who is comfortable to work with Python, Django to build Apps, to work as a Full stack developer applying my knowledge and maintenance to fulfill specific needs customer of the company. I enjoy to work with a team as well as individual it’s depend on the situation of the company.
 
-#### Skills & Experience:
-HTML / CSS / jQuery / BOOTSTRAP
-PYTHON / DJANGO / JS
-MY SQL / SQLite3
+### Skills & Experience:
+✔ HTML / CSS / jQuery / BOOTSTRAP
+✔ PYTHON / DJANGO / JS
+✔ MY SQL / SQLite3
 
 - 🔭 I’m currently working on Online 
 - 🌱 I’m currently learning Django 
