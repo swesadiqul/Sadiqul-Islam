@@ -9,11 +9,12 @@ I'm a Django Developer who is comfortable to work with Python, Django to build A
 - ✔ PYTHON / DJANGO / JS
 - ✔ MY SQL / SQLite3
 
+<--
 - 🔭 I’m currently working on Online 
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
-
+-->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Sadiqul-Islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/swe.sadiqul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/sadiqul.official390/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@tpisadiqul)  
 
