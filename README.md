@@ -17,8 +17,8 @@ I'm a Django Developer who is comfortable to work with Python, Django to build A
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sadiqul-Islam)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sadiqul-Islam)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sadiqul-Islam) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiqul-Islam)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sadiqul-Islam) 
 ![GitHub metrics](https://metrics.lecoq.io/Sadiqul-Islam)  
 ![Profile views](https://gpvc.arturio.dev/Sadiqul-Islam)  
