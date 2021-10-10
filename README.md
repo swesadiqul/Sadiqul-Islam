@@ -15,10 +15,8 @@ I'm a Django Developer who is comfortable to work with Python, Django to build A
 <a href="https://instagram.com/sadiqul.official390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadiqul.official390" height="30" width="40" /></a>
 <a href="https://dribbble.com/sadiqul_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sadiqul_official" height="30" width="40" /></a>
 </p>
-
-
+![Profile views](https://gpvc.arturio.dev/Sadiqul-Islam)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sadiqul-Islam)
 ![GitHub metrics](https://metrics.lecoq.io/Sadiqul-Islam)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiqul-Islam)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sadiqul-Islam) 
-![Profile views](https://gpvc.arturio.dev/Sadiqul-Islam)  
