@@ -8,7 +8,7 @@ I'm a Django Developer who is comfortable to work with Python, Django to build A
 ✅ HTML / CSS / jQuery / BOOTSTRAP <br>
 ✅ PYTHON / DJANGO / JS <br>
 ✅ MY SQL / SQLite3 <br>
-## Connect with me!
+## CONNECT WITH ME!
 <p align="left">
 <a href="https://twitter.com/@tpisadiqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tpisadiqul" height="30" width="40" /></a>
 <a href="https://fb.com/swe.sadiqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swe.sadiqul" height="30" width="40" /></a>
