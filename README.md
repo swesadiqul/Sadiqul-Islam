@@ -14,6 +14,7 @@ I'm a Django Developer who is comfortable to work with Python, Django to build A
 <a href="https://fb.com/swe.sadiqul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swe.sadiqul" height="30" width="40" /></a>
 <a href="https://instagram.com/sadiqul.official390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadiqul.official390" height="30" width="40" /></a>
 <a href="https://dribbble.com/sadiqul_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sadiqul_official" height="30" width="40" /></a>
+<a href="https://dev.to/djangodeveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="djangodeveloper" height="30" width="40" /></a>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/Sadiqul-Islam)  
